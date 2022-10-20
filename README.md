@@ -8,9 +8,9 @@ Create a personal site in markdown that is hosted on GitHub and provides informa
 
 
 ## About Me
-  I've played soccer my whole life have a family of four me my sister my dad and my mom my  dad is actually a programmer. I aspire to be like him to my mom's a nurse and my sister is also attending Mizzou hoping to become a programer. I've lived here in Columbia my whole life as well.I used to live in Jefferson City I moved  to Columbia when I was in second grade we came here because both my parents found better job opportunities.
+  I've played **soccer** my whole life have a family of four me my sister my dad and my mom my  dad is actually a programmer. I aspire to be like him to my mom's a nurse and my sister is also attending **Mizzou** hoping to become a programer. I've lived here in *Columbia* my whole life as well.I used to live in *Jefferson City* I moved  to *Columbia* when I was in second grade we came here because both my parents found better job opportunities.
 
-  I'm very glad with this decision because  is a lot more to do here in Columbia then there is to do in Jeff City. the only time I be going down there  is for soccer practice that's the one thing Jeff City has on Columbia the soccer teams there are pretty good. do Columbia does have a lot of good talented players,  even more than Jeff City the teams here are ran by pretty bad coaches. My favorite soccer team is [Arsenal](https://www.arsenal.com/), clear my favorite because when I was a kid I saw the soccer commercial  which animated all the Premier League teams logos and I saw Arsenal's Cannon and thought it was the coolest thing ever. 
+  I'm very glad with this decision because  is a lot more to do here in *Columbia* then there is to do in *Jefferson City*. the only time I be going down there  is for soccer practice that's the one thing *Jefferson City* has on *Columbia* the soccer teams there are pretty good. Though *Columbia* does have a lot of good talented players,  even more than *Jefferson City* the teams here are ran by pretty bad coaches. My favorite soccer team is [**Arsenal**](https://www.arsenal.com/), clear my favorite because when I was a kid I saw the soccer commercial  which animated all the Premier League teams logos and I saw Arsenal's Cannon and thought it was the coolest thing ever. 
   
   ![Saka](https://www.arsenal.com/sites/default/files/styles/large_16x9/public/images/Saka_36.jpg?itok=2HoxTYjM)
   ******
@@ -19,7 +19,7 @@ Create a personal site in markdown that is hosted on GitHub and provides informa
   ![LeBron](https://lebronwire.usatoday.com/wp-content/uploads/sites/37/2020/02/gettyimages-1199128962.jpg?w=1024&h=576&crop=1)
   ******
 #### Video Games
-  When I'm not busy with work soccer school Or Sports I'll probably be be playing video games to pass the time and have some fun I put a good amount of video games.
+  When I'm not busy with work soccer school Or Sports I'll probably be be playing **video games** to pass the time and have some fun I put a good amount of video games.
 - [Halo](https://www.halowaypoint.com/)
 - [Fortnite](https://www.epicgames.com/fortnite/en-US/home)
 - [Apex](https://www.ea.com/games/apex-legends)
@@ -32,12 +32,6 @@ Create a personal site in markdown that is hosted on GitHub and provides informa
 ******
 
 ## Job Life
-Right now I work at the Jamaican Jerk Hut my dad's authentic Jamaican food restaurant. I've been working there for about 2 years now my one and only job it's pretty good. overall it's just super chill And fun to a certain extent when a bunch of people walk in at once it can be a bit overwhelming. As long as you got an all the tasks done for the day and Saturday ra customer up front you can just relax.
+Right now I work at the [**Jamaican Jerk Hut**](https://www.facebook.com/JamJerkHut/) my dad's authentic Jamaican food restaurant. I've been working there for about 2 years now my one and only job it's pretty good. overall it's just super chill And fun to a certain extent when a bunch of people walk in at once it can be a bit overwhelming. As long as you got an all the tasks done for the day and Saturday ra customer up front you can just relax.
+![Jamaican Jerk Hut trailer](https://bloximages.newyork1.vip.townnews.com/feastmagazine.com/content/tncms/assets/v3/editorial/5/c1/5c13747e-901e-11e8-a767-ab938ebbbb8c/5b59de1bc3c36.image.jpg)
 ******
-
-
-
-
-  
-  
-
