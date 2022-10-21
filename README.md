@@ -8,7 +8,7 @@ Create a personal site in markdown that is hosted on GitHub and provides informa
 
 
 ## About Me
-  I've played **soccer** my whole life have a family of four me my sister my dad and my mom my  dad is actually a programmer. I aspire to be like him to my mom's a nurse and my sister is also attending **Mizzou** hoping to become a programer. I've lived here in *Columbia* my whole life as well.I used to live in *Jefferson City* I moved  to *Columbia* when I was in second grade we came here because both my parents found better job opportunities.
+  Hi, my name is Kymani Scott and i'de like to let you know some things about me. I've played **soccer** my whole life have a family of four me my sister my dad and my mom my  dad is actually a programmer. I aspire to be like him to my mom's a nurse and my sister is also attending **Mizzou** hoping to become a programer. I've lived here in *Columbia* my whole life as well.I used to live in *Jefferson City* I moved  to *Columbia* when I was in second grade we came here because both my parents found better job opportunities.
 
   I'm very glad with this decision because  is a lot more to do here in *Columbia* then there is to do in *Jefferson City*. the only time I be going down there  is for soccer practice that's the one thing *Jefferson City* has on *Columbia* the soccer teams there are pretty good. Though *Columbia* does have a lot of good talented players,  even more than *Jefferson City* the teams here are ran by pretty bad coaches. My favorite soccer team is [**Arsenal**](https://www.arsenal.com/), clear my favorite because when I was a kid I saw the soccer commercial  which animated all the Premier League teams logos and I saw Arsenal's Cannon and thought it was the coolest thing ever. 
   
